@@ -3,7 +3,8 @@ var students = [
     { name: "Puthean", grade: 92 },
     { name: "Visal", grade: 78 },
     { name: "David", grade: 90 },
-    { name: "Piseth", grade: 88 }
+    { name: "Piseth", grade: 88 },
+    { name: "Nali", grade: 95 },
 ];
 
 var remainingStudents = [...students];
