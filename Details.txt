@@ -1,0 +1,7 @@
+Key Idea:
+
+A prime number has no divisors except 1 and itself
+This function efficiently checks that using a loop up to n 
+
+
+//Any question ....?
